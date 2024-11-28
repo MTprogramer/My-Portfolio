@@ -11,7 +11,7 @@ function article_1() {
 		detailedDescription: `
       Singlee is a comprehensive trading signals application designed to provide users with real-time trading insights and educational resources. It features robust push notifications to alert users of market changes, supports multi-authentication methods for secure access, and includes public chat rooms for community interaction. The app utilizes SMTP for sending emails and OTPs, ensuring secure communication and verification processes.
     `,
-		technologiesUsed: ["React Native", "Node.js", "Express.js", "MongoDB"],
+	technologiesUsed: ["Kotlin", "Firebase Authentication", "Google Sign-In", "Facebook Login", "SMTP", "Push Notifications", "Jetpack Compose", "Firestore", "Dagger 2", "MVVM"],
 		features: [
 			"Real-time trading signals",
 			"Push notifications for market updates",
